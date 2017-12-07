@@ -1,0 +1,32 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+!/.idea/codeStyleSettings.xml
+!/.idea/copyright/
+
+# Mac file
+*.DS_Store
+
+# Java/Maven
+target/
+out/
+
+# Eclipse
+.project
+.settings
+.classpath
+
+#VSCode
+.vscode
+
+#npm
+npm-debug.log
+
+#local builds
+build.bat
+
+#large files
+*.csv
+*.tsv
+*.xlsx
